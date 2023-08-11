@@ -19,20 +19,20 @@ Como *objetivo de carácter general* puedo indicar que la mirada ha estado dirig
 Para realizar este trabajo he utilizado datos reales, que fueron extraídos de fuentes oficiales del Gobierno de la República Argentina. 
 
 La exploración de datos a partir del algorítmo *K-means* ha sido creado a partir del dataset
-- Linea144-enero-diciembre-2022.csv extraído de [title](https://www.datos.gob.ar/dataset/generos-base-datos-linea-144/archivo/generos_1.3)
+- Linea144-enero-diciembre-2022.csv [extraído de](https://www.datos.gob.ar/dataset/generos-base-datos-linea-144/archivo/generos_1.3)
 
 La visualización que he realizado en un paso posterior, he querido complejizarla para dar un carácter relacional y de mayor profundidad a la explicación del fenómeno analizado. Es por ello que he adicionado otros dataset que han sido extraídos del portal de Datos abiertos de la República Argentina, sin embargo también he construido mis propios CSV con información faltante pero que también ha sido publicado por sitios oficiales:
 
 **CSV de Construcción Propia** :construction_worker:
 
-- Poblacion_total_por_sexo_provincia_2010.csv fue construido con información de INDEC sobre el último censo registrado en el país. [title](https://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina/Poblacion2)
-Salario-minimo-2022.csv fue construido con información extraída de internet. https://datosmacro.expansion.com/smi/argentina
+- Poblacion_total_por_sexo_provincia_2010.csv fue construido con [información de INDEC sobre el último censo registrado en el país](https://www.ign.gob.ar/NuestrasActividades/Geografia/DatosArgentina/Poblacion2)
+- Salario-minimo-2022.csv fue construido con [información extraída de internet](https://datosmacro.expansion.com/smi/argentina)
 
 **CSV oficiales** :office:
-- Linea144-enero-diciembre-2022.csv extraído de [title](https://www.datos.gob.ar/dataset/generos-base-datos-linea-144/archivo/generos_1.3)
-- Tasa-desocupación-jefas-mujeres-hogares-urbanos.csv extraído de [title](https://www.datos.gob.ar/dataset/obras-actividad-economica-empleo-pobreza---mercado-trabajo/archivo/obras_13.9)
-- Tasa-desempleo-18a65.csv extraído de [title](https://www.datos.gob.ar/dataset/obras-actividad-economica-empleo-pobreza---mercado-trabajo/archivo/obras_13.8)
-- Percentiles_mujer_total_total.csv extraído de [title](https://www.datos.gob.ar/dataset/produccion-percentiles-salarios-por-genero-actividad/archivo/produccion_8b431ad8-4d2d-4003-a8d7-6cd5280569d3)
+- Linea144-enero-diciembre-2022.csv extraído de [aquí](https://www.datos.gob.ar/dataset/generos-base-datos-linea-144/archivo/generos_1.3)
+- Tasa-desocupación-jefas-mujeres-hogares-urbanos.csv extraído de [aquí](https://www.datos.gob.ar/dataset/obras-actividad-economica-empleo-pobreza---mercado-trabajo/archivo/obras_13.9)
+- Tasa-desempleo-18a65.csv extraído de [aquí](https://www.datos.gob.ar/dataset/obras-actividad-economica-empleo-pobreza---mercado-trabajo/archivo/obras_13.8)
+- Percentiles_mujer_total_total.csv extraído de [aquí](https://www.datos.gob.ar/dataset/produccion-percentiles-salarios-por-genero-actividad/archivo/produccion_8b431ad8-4d2d-4003-a8d7-6cd5280569d3)
 
 
 ## Resúmen del Trabajo realizado
@@ -41,7 +41,7 @@ Salario-minimo-2022.csv fue construido con información extraída de internet. h
 
 📊 **K-means para la Clusterización:** Comencé aplicando el algoritmo de clusterización K-means para identificar patrones en los llamados. Esta técnica me permitió agrupar los datos en categorías relevantes, lo que arrojó luz sobre diferentes tipos de situaciones. Se puede acceder a este trabajo a partir del archivo creado para tal fin en [Kaggle](https://www.kaggle.com/code/animonte/proyecto-genero-linea144)
 
-📈 **Visualización Impactante en Power BI:** Luego, me propuse analizar los datos de la Línea 144 a la luz de datos macroeconómicos para analizar relaciones entre pobreza junto a indicadores desempleo y aumento de casos de violencia. Las visualizaciones no solo hicieron que los datos fueran más accesibles, sino que también ayudaron a identificar tendencias y momentos clave. El resultado obtenido puede visitarse desde el [archivo que está dentro de este respositorio](https://github.com/animonte/Proyecto_linea_144/blob/main/proyecto-genero-linea144.pbix), pero aquí les dejo la vista previa a través de imágenes:
+📈 **Visualización Impactante en Power BI:** Luego, me propuse analizar los datos de la Línea 144 a la luz de datos macroeconómicos para analizar relaciones entre pobreza junto a indicadores desempleo y aumento de casos de violencia. Las visualizaciones no solo hicieron que los datos fueran más accesibles, sino que también ayudaron a identificar tendencias y momentos clave. El resultado obtenido puede visitarse desde el archivo que está dentro de este [respositorio](https://github.com/animonte/Proyecto_linea_144/blob/main/proyecto-genero-linea144.pbix), pero aquí les dejo la vista previa a través de imágenes:
 
 - Descripción general de los llamados en 2022:
 
