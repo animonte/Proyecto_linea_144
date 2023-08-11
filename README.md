@@ -1,14 +1,18 @@
 # Proyecto_linea_144
 
+
 Quiero compartir mi primer proyecto **"end to end"** en el campo del análisis de datos. Como aspirante a Data Analyst, he tenido la oportunidad de trabajar en un proyecto significativo y quiero contarles sobre él
 
+
 ## **Objetivo:** 
+
 
 Este trabajo nace de la inquietud de conocer en profundidad las causas de la violencia por motivos Género en la República Argentina a través de los datos aportados por los llamados a la línea 144, por lo tanto el carácter de la presente indagación es *exploratorio*. Aún así, el camino transitado ha estado guiado por diversas hipótesis y con objetivos claros.
 
 Como *objetivo de carácter general* puedo indicar que la mirada ha estado dirigida a:
 
 - Conocer las principales características sociales y demográficas de las personas que acuden mediante llamados gratuitos a la línea 144 para trazar similitudes y regularidades entre las personas usuarias del servicio para poder acceder a la problemática de genero a través de datos certeros que contribuyan a dilucidar líneas de acción para intervenir sobre la problemática. 
+
 
 ## Datos utilizados
 
@@ -39,14 +43,25 @@ Salario-minimo-2022.csv fue construido con información extraída de internet. h
 
 📈 **Visualización Impactante en Power BI:** Luego, me propuse analizar los datos de la Línea 144 a la luz de datos macroeconómicos para analizar relaciones entre pobreza junto a indicadores desempleo y aumento de casos de violencia. Las visualizaciones no solo hicieron que los datos fueran más accesibles, sino que también ayudaron a identificar tendencias y momentos clave. El resultado obtenido puede visitarse desde el [archivo que está dentro de este respositorio](https://github.com/animonte/Proyecto_linea_144/blob/main/proyecto-genero-linea144.pbix), pero aquí les dejo la vista previa a través de imágenes:
 
-- Descripción general de los llamados en 2022: <img width="900" alt="Screenshot 2023-08-06 at 21 12 03" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/a6280a99-d016-476f-b893-c6615e0dbc2d">
+- Descripción general de los llamados en 2022:
 
-- Descripción de situación por provincias:  <img width="900" alt="Screenshot 2023-08-06 at 21 12 19" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/967a240a-2c87-4a56-a7de-8e26eee0c798">
+<img width="900" alt="Screenshot 2023-08-06 at 21 12 03" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/a6280a99-d016-476f-b893-c6615e0dbc2d">
 
-- Análisis relacional con aspectos macroeconómicos: <img width="900" alt="Screenshot 2023-08-06 at 21 12 30" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/a62878c9-de0c-4e6b-90eb-987dbc02bb89">
+
+- Descripción de situación por provincias:
+
+<img width="900" alt="Screenshot 2023-08-06 at 21 12 19" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/967a240a-2c87-4a56-a7de-8e26eee0c798">
+
+
+- Análisis relacional con aspectos macroeconómicos:
+
+<img width="900" alt="Screenshot 2023-08-06 at 21 12 30" src="https://github.com/animonte/Proyecto_linea_144/assets/125661622/a62878c9-de0c-4e6b-90eb-987dbc02bb89">
+
 
 
 📑 **Informe de Resultados:** Finalmente, redacté un informe detallado que describe mi análisis paso a paso. Quise asegurarme de que cualquier persona pudiera entender los hallazgos y su importancia. Pueden acceder a él desde el siguiente [archivo](https://github.com/animonte/Proyecto_linea_144/blob/main/Informe%20de%20resultados.%20L%C3%ADnea%20144%20.pages)
+
+
 
 ## 🙌 **Reflexión y Aprendizaje:** 
 
